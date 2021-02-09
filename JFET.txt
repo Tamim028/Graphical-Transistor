@@ -1,0 +1,36 @@
+_|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|
+___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|__
+
+ .----------------.  .----------------.  .----------------.  .----------------. 
+| .--------------. || .--------------. || .--------------. || .--------------. |
+| |     _____    | || |  _________   | || |  _________   | || |  _________   | |
+| |    |_   _|   | || | |_   ___  |  | || | |_   ___  |  | || | |  _   _  |  | |
+| |      | |     | || |   | |_  \_|  | || |   | |_  \_|  | || | |_/ | | \_|  | |
+| |   _  | |     | || |   |  _|      | || |   |  _|  _   | || |     | |      | |
+| |  | |_' |     | || |  _| |_       | || |  _| |___/ |  | || |    _| |_     | |
+| |  `.___.'     | || | |_____|      | || | |_________|  | || |   |_____|    | |
+| |              | || |              | || |              | || |              | |
+| '--------------' || '--------------' || '--------------' || '--------------' |
+ '----------------'  '----------------'  '----------------'  '----------------' 
+
+_|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___||___|
+___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___||___|_|
+**********************************************************************
+PROPERTIES:                                                          *
+**********************************************************************
+1. The junction gate field-effect transistor (JFET or JUGFET) is the simplest
+   type of field-effect transistor. They are three-terminal semiconductor
+   devices that can be used as electronically-contr­olled switches,
+   amplifiers, or voltage-controlled resistors. 
+
+2. This bias causes a “depletion layer” to be formed within the channel and
+   whose width increases with the bias. 
+
+3. Unlike bipolar transistors, JFETs are exclusively voltage-controlled in 
+   that they do not need a biasing current. Electric charge flows through a
+   semiconducting channel between source and drain terminals.
+
+If you want to see JFET's property graph.
+press Y/N: 
+If you want to see JFET's equation.
+press z/Z:

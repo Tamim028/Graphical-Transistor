@@ -1,0 +1,31 @@
+_|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|
+___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|__
+
+ _______  _______  _______  _______  _______ _________
+(       )(  ___  )(  ____ \(  ____ \(  ____ \\__   __/
+| () () || (   ) || (    \/| (    \/| (    \/   ) (   
+| || || || |   | || (_____ | (__    | (__       | |   
+| |(_)| || |   | |(_____  )|  __)   |  __)      | |   
+| |   | || |   | |      ) || (      | (         | |   
+| )   ( || (___) |/\____) || )      | (____/\   | |   
+|/     \|(_______)\_______)|/       (_______/   )_(   
+                                                      
+
+_|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|
+___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|__
+**********************************************************************
+PROPERTIES:                                                          *
+**********************************************************************
+1. A metal–insulator–semi­conductor field-effect transistor or MISFET 
+   is a term almost synonymous with MOSFET.
+
+2. MOSFETs are tri-terminal, unipolar, voltage-controlled, high input 
+   impedance devices which form an integral part of vast variety of 
+   electronic circuits.
+
+3. These devices can be classified into two types viz., depletion-type
+   and enhancement-type, depending on whether they possess a channel in
+   their default state or no, respectively.
+
+If you want to see BJT's property graph.
+press Y/N: 
