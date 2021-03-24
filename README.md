@@ -5,7 +5,7 @@ In this project, graphic.h is used, in case you get error while compliling, just
 https://www.geeksforgeeks.org/include-graphics-h-codeblocks/ 
 
 
-# Contributor: Sayed Sohan
+Contributor: [Sayed Sohan](https://github.com/ssohans)
 
 
 
